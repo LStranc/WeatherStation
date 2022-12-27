@@ -1,0 +1,292 @@
+#banner {
+color: rgb(250, 255, 251);
+font-size: 40px;
+text-align: center;
+padding-top: 100px;
+padding-bottom: 800px;
+background-image: url(../pictures/SLCDowntown.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+#title {
+    background: rgba(128, 128, 128, 0.594)
+}
+
+.nav{
+background-color:black; /* rgb(90, 191, 181); */
+width: 100%;
+text-align: center;
+list-style-type: none;
+
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+.nav ul{
+    padding: 0;
+    margin: 0;
+}
+
+.nav li{
+display: inline-block;
+font-size: 20px;
+padding: 16px;
+margin: -2px;
+}
+
+.nav a{
+    text-decoration: none;
+    color:white
+}
+
+.nav li:hover{
+    background-color: rgb(48, 155, 185);
+}
+
+.active {
+    background-color: #858585;
+  }
+
+
+.body{
+    padding-top: 30px;
+    padding-right: 12.5%;
+    padding-left: 12.5%;
+    background-image: linear-gradient(180deg,rgb(153,180,200),rgb(69, 75, 77));
+    text-align: center;
+    height:1400px;
+}
+
+.content {
+    max-width: 1000px;
+    margin: auto;    
+}
+
+.widget {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    background-color: rgb(90 191 181);
+    text-align: center;
+}
+
+.subgrid{
+    color: white;
+    font-size: 2vw;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-weight:500;
+    padding-left: 50px;
+    padding-right: 50px;
+
+    display: inline-block;
+}
+
+.welcome{
+    margin-top: 10px;
+}
+
+.welcome p {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+
+}
+
+.welcome a {
+    color: black;
+    text-decoration: none;
+}
+
+.welcome a:hover{
+    color:rgb(48, 155, 185);
+}
+
+.time{
+    background-image: linear-gradient(45deg,rgb(125, 125, 125),rgb(194, 194, 194));
+}
+
+.sky{
+    background-image:  url(../pictures/CloudyDrawing.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.circlelink:hover{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.missaligned:hover{
+    margin-top:-19px;
+}
+
+.missaligned2:hover{
+    
+}
+ 
+.greycircle{
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgba(128, 128, 128, 0.75);
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.skyfont{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 60px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 3.33fr 3.33fr 3.33fr;
+    grid-gap: 10px;
+    grid-auto-rows: 250px;
+    
+    
+}
+
+.grid2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    grid-gap: 10px;
+    grid-auto-rows: 100px;
+    
+    
+}
+
+.buttons{
+    display:inline;
+    font-size: 1vw;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-weight:500;
+    
+}
+
+.buttons p{
+    color: white;
+    width: 15%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -15px;
+}
+
+.temperature{
+    flex:1;
+    background-image: url(../pictures/ClearSkyDay.jpg);    
+}
+
+.humidity{
+    background-image: url(../pictures/humidity.jpg);
+}
+
+.feelsLike{
+    background-image: url(../pictures/FeelsLike.jpg);
+}
+
+.pressure{
+    background-image: url(../pictures/Pressure.jpg);
+}
+
+.snowfall{
+    background-image: url(../pictures/snowfall.jpg);
+}
+.boiling{
+    background-image: url(../pictures/boilingwater.webp);
+}
+.wind{
+    background-image: url(../pictures/WindSpeed.jpg);
+    background-size: cover;
+}
+
+.uvGreen{
+    background-color: #00d647;
+}
+.uvYellow{
+    background-color: #b6d600;
+}
+.uvOrange{
+    background-color: #d69200;
+}
+.uvRed{
+    background-color: #d60000;
+}
+.uvDanger{
+    background-color: #650075;
+}
+
+.air{
+    background-color: #00d647;
+}
+
+.widgetlist{
+    padding-left: 10px;
+    text-align: center;
+}
+
+.widgetlist li{
+    list-style-type: none;
+    color: white;
+    font-size: 2vw;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-weight:500;
+    padding-left: 20px;
+    width: 250px;
+    background: rgba(128, 128, 128, 0.75);
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.datavalue{
+    font-size: 3vw !important; 
+    
+}
+
+.pressure {
+    flex:1;
+}
+
+.footer{
+    text-align: center;
+}
+
+#githubLogo{
+    position: relative;
+    left: 25px;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+    opacity: 1;
+    display: inline;
+}
+
+#githubLogo2{
+    position: relative;
+    right: 29px;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+    opacity: 0;
+    display: inline;
+    
+}
+
+#githubLogo:hover{
+    opacity: 0;
+}
+
+#githubLogo2:hover{
+    opacity: 1;
+}

@@ -1,0 +1,198 @@
+
+Temperature Rain
+
+
+
+ 
+ 
+0 No_Rain
+0 No_Rain
+ 
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+0 No_Rain
+          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+0          Raining   
+0          Raining   
+0          Raining   
+0          Not Raining   
+0          Not Raining   
+0          Not Raining   
+          Not Raining   
+          Not Raining   
+0          Not Raining   
+0          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+          Not Raining   
+24.94          Not Raining   84492
+24.94          Not Raining   84490
+24.95          Not Raining   84488
+24.95          Not Raining   84487
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84486
+24.96          Not Raining   84485
+24.96          Not Raining   84485
+24.96          Not Raining   84485
+24.97          Not Raining   84485
+24.97          Not Raining   84486
+24.97          Not Raining   84487
+24.97          Not Raining   84489
+24.98          Not Raining   84490
+24.98         
+
+25.05          Not Raining   84495
+25.06          Not Raining   84496
+25.06          Not Raining   84497
+25.06          Not Raining   84496
+25.06          Not Raining   84495
+25.06          Not Raining   84495
+          Not Raining         
+          Not Raining         
+23.54          Not Raining   84374      
+23.48          Not Raining   84371      
+23.56          Not Raining   84375   0   0
+23.58          Not Raining   84374   0   0
+23.59          Not Raining   84374   0   0
+23.60          Not Raining   84374   0   0
+23.60          Not Raining   84374   0   0
+          Not Raining         
+          Not Raining         
+          Not Raining         
+23.45          Raining   84087   0   0
+23.41          Raining   84084   0   0
+23.40          Raining   84085   0   0
+23.41          Raining   84086   0   0
+23.41          Raining   84087   0   0
+23.42          Raining   84088   0   0
+23.43          Raining   84088   0   0
+23.43          Raining   84088   0   0
+23.43          Raining   84088   0   0
+23.44          Raining   84090   0   0
+23.45          Raining   84089   0   0
+23.44          Raining   84087   0   0
+23.45          Raining   84088   0   0
+23.46          Raining   84088   0   0
+23.47          Raining   84089   0   0
+23.48          Raining   84089   0   0
+23.49          Raining   84089   0   0
+23.49          Raining   84089   0   0
+23.50          Raining   84090   0   0
+23.50          Raining   84090   0   0
+23.64          Not Raining   84086   0   0
+23.60          Not Raining   84087   0   0
+23.58          Not Raining   84088   0   0
+23.56          Not Raining   84088   0   0
+23.56          Not Raining   84088   0   0
+24.62          Not Raining   84067   0   0
+24.58          Not Raining   84064   0   0
+24.59          Not Raining   84065   0   0
+24.64          Not Raining   84065   0   0
+24.64          Not Raining   84064   0   0
+24.65          Not Raining   84064   0   0
+24.66          Not Raining   84062   0   0
+24.67          Not Raining   84063   0   0
+24.67          Not Raining   84062   0   0
+24.68          Not Raining   84062   0   0
+24.69          Not Raining   84061   0   0
+24.69          Not Raining   84060   0   0
+24.70          Not Raining   84060   0   0
+24.70          Not Raining   84059   0   0
+24.71          Not Raining   84058   0   0
+24.71          Not Raining   84058   0   0
+24.72          Not Raining   84057   0   0
+24.72          Not Raining   84056   0   0
+24.72          Not Raining   84057   0   0
+24.72          Not Raining   84058   0   0
+24.73          Not Raining   84058   0   0
+24.73          Not Raining   84058   0   0
+24.73          Not Raining   84059   0   0
+24.73          Not Raining   84059   0   0
+24.73          Not Raining   84058   0   0
+24.74          Not Raining   84057   0   0
+24.74          Not Raining   84057   0   0
+24.74          Not Raining   84057   0   0
+24.74          Not Raining   84057   0   0
+24.74          Not Raining   84056   0   0
+24.74          Not Raining   84055   0   0
+24.74          Not Raining   84055   0   0
+24.74          Not Raining   84054   0   0
+24.74          Not Raining   84054   0   0
+24.74          Not Raining   84052   0   0
+24.74          Not Raining   84051   0   0
+24.74          Not Raining   84052   0   0
+24.74          Not Raining   84051   0   0
+24.74          Not Raining   84051   0   0
+24.74          Not Raining   84051   0   0
+24.73          Not Raining   84050   0   0
+24.73          Not Raining   84050   0   0
+24.73          Not Raining   84050   0   0
+24.74          Not Raining   84050   0   0
+24.74          Not Raining   84049   0   0
+24.74          Not Raining   84049   0   0
+24.74          Not Raining   84049   0   0
+24.74          Not Raining   84049   0   0
+24.74          Not Raining   84049   0   0
+24.74          Not Raining   84050   0   0
+24.74          Not Raining   84050   0   0
+24.74          Not Raining   84049   0   0
+24.74          Not Raining   84050   0   0
+24.90          Not Raining   84050   0   0
+24.91          Not Raining   84050   0   0
+24.91          Not Raining   84049   0   0
+24.91          Not Raining   84049   0   0
+24.91          Not Raining   84049   0   0
+24.91          Not Raining   84048   0   0
+24.91          Not Raining   84047   0   0
+24.91          Not Raining   84047   0   0
+24.91          Not Raining   84048   0   0
+24.91          Not Raining   84048   0   0

@@ -1,0 +1,3 @@
+New record Failed,
+INSERT INTO weatherData (Temp, Humidity, Pressure, Precipitation, WindSpeed, Part0_3, Part0_5, Part1, Part2_5, Part5, Part10, UVIndex, SnowFall, Battery) VALUES (,,, 'Snowing',,,,,,,,0,86,)
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',,, 'Snowing',,,,,,,,0,86,)' at line 1
